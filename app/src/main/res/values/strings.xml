@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tablas de Multiplicar</string>
+    <string name="correct">Muy Bien Kaori!!</string>
+    <string name="wrong">Inténtalo de Nuevo!</string>
+    <string name="start">Go</string>
+    <string name="x1">X 1</string>
+    <string name="x2">X 2</string>
+    <string name="x3">X 3</string>
+    <string name="x4">X 4</string>
+    <string name="x5">X 5</string>
+    <string name="x6">X 6</string>
+    <string name="x7">X 7</string>
+    <string name="x8">X 8</string>
+    <string name="x9">X 9</string>
+    <string name="tabla1">1</string>
+    <string name="tabla2">2</string>
+    <string name="tabla3">3</string>
+    <string name="tabla4">4</string>
+    <string name="times">X</string>
+
+</resources>
